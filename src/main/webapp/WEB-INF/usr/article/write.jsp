@@ -5,6 +5,9 @@
 <head>
 <meta charset="UTF-8">
 <title>JSP BOARD</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <link href="https://cdn.jsdelivr.net/npm/daisyui@0.20.0/dist/full.css"
 	rel="stylesheet" type="text/css" />
 <link rel="stylesheet"
@@ -16,7 +19,7 @@
 </head>		
 
 <body>
-	<section class="section section-article-write">
+	<section class="section section-article-write px-4">
 		<div class="container mx-auto">
 			<script>
 				let ArticleWrite__submitDone = false;
