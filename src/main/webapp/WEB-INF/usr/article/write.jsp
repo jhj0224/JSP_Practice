@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<%=10 + 20 %>
+	게시물 등록
 </body>
 </html>
